@@ -1,0 +1,20 @@
+{
+  "Name": "RU Direkt AUTO",
+  "GlobalProxy": "true",
+  "RemoteDNSType": "DoH",
+  "RemoteDNSDomain": "https://cloudflare-dns.com/dns-query",
+  "RemoteDNSIP": "1.1.1.1",
+  "DomesticDNSType": "DoU",
+  "DomesticDNSIP": "8.8.8.8",
+  "DirectSites": [
+    "domain:ru",
+    "domain:xn--p1ai"
+  ],
+  "DirectIp": [],
+  "ProxySites": [],
+  "ProxyIp": [],
+  "BlockSites": [],
+  "BlockIp": [],
+  "DomainStrategy": "IPIfNonMatch",
+  "FakeDNS": "false"
+}
