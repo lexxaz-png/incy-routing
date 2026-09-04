@@ -10,8 +10,7 @@
   "DirectSites": [
     "domain:ru",
     "domain:xn--p1ai",
-    "domain:example.com"
-  ],
+      ],
   "DirectIp": [],
   "ProxySites": [],
   "ProxyIp": [],
