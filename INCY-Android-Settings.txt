@@ -1,0 +1,5 @@
+#profile-title: INCY Android — RU Direct + MAX/VK Bypass
+#per-app-proxy-enable: 1
+#per-app-proxy-mode: bypass
+#per-app-proxy-list: https://raw.githubusercontent.com/lexxaz-png/incy-routing/refs/heads/main/per-app-bypass.txt
+://autorouting/onadd/https://raw.githubusercontent.com/lexxaz-png/incy-routing/refs/heads/main/RU-Direkt-Android.json
