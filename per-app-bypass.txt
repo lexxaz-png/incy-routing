@@ -1,1 +1,2 @@
+ru.oneme.app
 com.vkontakte.android
